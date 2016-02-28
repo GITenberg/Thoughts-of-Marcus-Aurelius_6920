@@ -1,0 +1,34 @@
+_repo: Thoughts-of-Marcus-Aurelius_6920
+contributor:
+  translator:
+    agent_name: Long, George
+    birthdate: 1800
+    deathdate: 1879
+    gutenberg_agent_id: '2256'
+    url: http://www.gutenberg.org/2009/agents/2256
+    wikipedia: http://en.wikipedia.org/wiki/George_Long
+creator:
+  author:
+    agent_name: Marcus Aurelius, Emperor of Rome
+    aliases:
+    - Antoninus, Marcus Aurelius
+    - Aurel, Marc
+    birthdate: 121
+    deathdate: 180
+    gutenberg_agent_id: '998'
+    url: http://www.gutenberg.org/2009/agents/998
+    wikipedia: http://en.wikipedia.org/wiki/Marcus_Aurelius
+description: ''
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6920'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Marcus Aurelius, Emperor of Rome, 121-180'
+title: Thoughts of Marcus Aurelius
+url: http://www.gutenberg.org/ebooks/6920
